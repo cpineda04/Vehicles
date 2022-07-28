@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Vehicles.Common": {
+      "commandName": "Project"
+    },
+    "Profile 1": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\cpineda\\source\\repos\\Vehicles\\Vehicles\\Vehicles.API\\Vehicles.API.csproj"
+    }
+  }
+}
